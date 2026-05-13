@@ -1,0 +1,12 @@
+{
+  "name": "Dental Clinic Shahjahanpur",
+  "description": "Professional dental services in Shahjahanpur. Providing expert care in implants, braces, and general dentistry.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "appointments",
+    "services",
+    "doctor_profiles"
+  ]
+}
